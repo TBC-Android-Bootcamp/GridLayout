@@ -1,0 +1,2 @@
+rootProject.name='GridHomework'
+include ':app'
